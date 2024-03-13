@@ -5,6 +5,14 @@ from PIL import Image
 from openpyxl import load_workbook
 from openpyxl.drawing.image import Image as xlImage
 
+__author__      = "Andrés L. Ospina"
+__copyright__   = "Copyright 2024"
+__license__     = "GPL"
+__version__     = "1.0.1"
+__maintainer__  = "SyGmA"
+__email__       = "andresl.ospina@outlook.com"
+__status__      = "Test"
+
 def generar_codigo_barras(ean, numero_fila):
     print(f"Generando código de barras para EAN: {ean}, Fila: {numero_fila}")
 
