@@ -10,7 +10,7 @@ __copyright__   = "Copyright 2024"
 __license__     = "GPL"
 __version__     = "1.0.1"
 __maintainer__  = "SyGmA"
-__email__       = "andresl.ospina@outlook.com"
+__email__       = "116124867+SyGmAV3@users.noreply.github.com"
 __status__      = "Test"
 
 def generar_codigo_barras(ean, numero_fila):
